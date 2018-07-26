@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../codedna-admin/codedna-admin.iml" filepath="$PROJECT_DIR$/../codedna-admin/codedna-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../codedna-core/codedna-core.iml" filepath="$PROJECT_DIR$/../codedna-core/codedna-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../codedna-generator/codedna-generator.iml" filepath="$PROJECT_DIR$/../codedna-generator/codedna-generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/codedna-parent.iml" filepath="$PROJECT_DIR$/codedna-parent.iml" />
+    </modules>
+  </component>
+</project>
